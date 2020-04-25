@@ -1,6 +1,6 @@
 # Heroku Buildpack for Custom Fonts
 
-Fonts used by [ServeManager](https://www.servemanager.com) for printing documents.
+Fonts used by [Finger-Ink](https://finger-ink.com) for printing forms.
 
 __WARNING: DO NOT POINT YOUR BUILDPACK CONFIG TO THIS PROJECT__
 
